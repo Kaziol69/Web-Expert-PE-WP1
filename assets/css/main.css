@@ -496,6 +496,13 @@ footer p {
   .cart {
     height: 850px;
   }
+  footer p {
+    font-size: 14px;
+    line-height: 1.6;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
 }
 @media only screen and (max-width: 991px) {
   h2 {
@@ -597,6 +604,13 @@ footer p {
     width: 60px;
     line-height: 60px;
     margin-bottom: 10px;
+  }
+  footer p {
+    font-size: 14px;
+    line-height: 1.6;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
   }
 }
 @media only screen and (max-width: 767px) {
@@ -803,6 +817,13 @@ footer p {
     padding: 0px 20px;
     padding-top: 100px;
     text-align: center;
+  }
+  footer p {
+    font-size: 14px;
+    line-height: 1.6;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
   }
 }
 @media only screen and (max-width: 575px) {
@@ -1017,6 +1038,9 @@ footer p {
   footer p {
     font-size: 14px;
     line-height: 1.6;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
   }
 }
 
